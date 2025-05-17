@@ -80,6 +80,8 @@ The application features a user-friendly GUI built with Tkinter that allows user
 
 ### 🏁 Default Puzzle
 The application comes with a built-in default puzzle:
+
+
 ![Image Alt](https://github.com/SHRAKIBBGUB/sudokosolver/blob/main/dp.png?raw=true)
 
 ### 🎲 Random Puzzle Generation
