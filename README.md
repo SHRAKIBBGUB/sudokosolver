@@ -105,6 +105,5 @@ This project is open source and available for educational purposes.
 - Include difficulty rating for input puzzles
 
 ## Screenshots
-(Include screenshots of the application if available)
+![Image Alt](https://github.com/SHRAKIBBGUB/sudokosolver/blob/main/dmss.png?raw=true)
 
-Enjoy solving Sudoku puzzles with AI techniques!
